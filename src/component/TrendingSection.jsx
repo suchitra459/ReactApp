@@ -1,5 +1,4 @@
 import React, { useRef } from "react";
-import React from "react";
 
 const trendingMovies = [
   { id: 1, img: "/images/movie1.png", badge: "Recently added" },
